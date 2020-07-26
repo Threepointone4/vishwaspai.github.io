@@ -1,2 +1,3 @@
 name: Vishwas Pai, NLP Researcher
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
